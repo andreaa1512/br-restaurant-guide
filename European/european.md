@@ -1,5 +1,5 @@
 # Bay Ridge Restaurant Guide
-## Asian
+## European
 ---
 Select a specific European food:
 ## [Greek](Greek)
