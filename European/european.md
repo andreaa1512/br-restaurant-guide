@@ -3,6 +3,6 @@
 ---
 Select a specific European food:
 ## [Greek](greek.md)
-## [Mediterranean](mediterranean.com)
+## [Mediterranean](mediterranean.md)
 ---
 [Start Over](../home.md)
